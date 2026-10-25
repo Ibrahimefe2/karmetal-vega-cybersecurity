@@ -92,4 +92,4 @@ Ağdaki bir yayın veya internet kesintisi C06'yı taşımamalıdır. Bu eğitim
 
 ## Teslim çıktısı ve bağlantı
 
-Bu dosya **Zone / Conduit Diagram → EP-05** çıktısıdır. Başlangıç zayıflıklarının riskleri [Hafta 3](03-hafta-risk-degerlendirmesi.md), erişim kararlarının uygulanabilir hedef akışı [Hafta 4](04-hafta-guvenli-uzaktan-erisim.md) içinde işlenmiştir. Kanıtların henüz toplanmadığı [kanıt planında](05-izlenebilirlik-ve-kanit-plani.md) açıkça belirtilir.
+Bu dosya **Zone / Conduit Diagram → EP-05** çıktısıdır. Başlangıç zayıflıklarının riskleri [Hafta 3](03-hafta-risk-degerlendirmesi.md), erişim kararlarının uygulanabilir hedef akışı [Hafta 4](04-hafta-guvenli-uzaktan-erisim.md) içinde işlenmiştir.

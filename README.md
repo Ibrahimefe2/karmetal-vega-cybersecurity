@@ -11,7 +11,6 @@ VEGA şerit testere makinesinin, üreticinin internetten erişilebilen bilgileri
 | [02 - Hafta 2: Zone / conduit](docs/02-hafta-zone-conduit.md) | Varlık grupları, geçiş kontrolleri, diyagramlar ve altı uzak erişim kararı. |
 | [03 - Hafta 3: Risk değerlendirmesi](docs/03-hafta-risk-degerlendirmesi.md) | Üç siber-fiziksel senaryo, L×S×E, risk matrisi ve öncelik cevapları. |
 | [04 - Hafta 4: Güvenli uzaktan erişim](docs/04-hafta-guvenli-uzaktan-erisim.md) | Mevcut/hedef, beş tasarım ilkesi ve üç safety gereksinimi. |
-| [05 - İzlenebilirlik ve kanıt planı](docs/05-izlenebilirlik-ve-kanit-plani.md) | Şablon/EP eşleştirmesi, önlem kodları ve yapılması gereken doğrulamalar. |
 
 ## Kapsam ve sınırlar
 

@@ -72,4 +72,4 @@ Gereksinimler çözüm adı yerine sınanabilir davranış olarak yazılmıştı
 
 PLr/SIL, duruş kategorisi ve test kapsamı ayrıntılı makine risk değerlendirmesinde ayrıca belirlenir. Ağ önlemleri safety doğrulamasının yerine geçmez.
 
-**Çıktı:** EP-02 + EP-06. Dayanak K04; bağlantı temeli K01–K02. [Kanıt planı](05-izlenebilirlik-ve-kanit-plani.md).
+**Çıktı:** EP-02 + EP-06. Dayanak K04; bağlantı temeli K01–K02.

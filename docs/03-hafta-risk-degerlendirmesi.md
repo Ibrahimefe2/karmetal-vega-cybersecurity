@@ -102,4 +102,4 @@ Satırlar L, sütunlar S; hücreler E ve toplamı gösterir. Boş hücre riskin 
 
 H01 ilk erişimi; H02–H03 bozuk reçetenin uygulanmasını; H05–H08 yetkisiz safety değişikliğini sınırlar. Çalışan kapı/duruş/tutma işlevleri ve H09 fiziksel aşamada insanı korur. Tek kontrolün başarısına güvenilmez; zincir hem ağ girişinde hem fiziksel sonuca yaklaşan halkalarda kesilir.
 
-**Çıktı:** EP-04. Genel kaynak K04; makine temeli K01–K02; ölçek T03. [Önlemler ve kanıt planı](05-izlenebilirlik-ve-kanit-plani.md).
+**Çıktı:** EP-04. Genel kaynak K04; makine temeli K01–K02; ölçek T03.
